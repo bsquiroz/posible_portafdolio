@@ -1,0 +1,4 @@
+.style_containerView {
+    min-height: calc(100vh - 100px);
+    padding: 1em;
+}
